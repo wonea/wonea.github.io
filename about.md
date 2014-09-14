@@ -3,7 +3,8 @@ layout: page
 title: About
 ---
 
-![Windermere One Way](/images/Windermere One Way Start.jpg "Windermere One Way")
+![Starting the Windermere One Way swim](/images/Windermere One Way Start.jpg "Starting the Windermere One Way swim")
+<em>Starting the Windermere One Way swim</em>
 
 I'm a Cumbria based C# developer based in the lovely town of Ulverston - with a distinct love of running, swimming, and cycling.
 
@@ -27,7 +28,7 @@ In my spare I enjoy playing around with several projects:
 <p class="message">
     <strong>Marty:</strong> "Wait a minute. Wait a minute. Doc, uh... Are you telling me that you built a time machine... out of a DeLorean?" 
 	
-    <strong>Doc: </strong>"Yes, the way I see it, if you're gonna build a time machine into a car, why not do it with some style?
+    <strong>Doc: </strong>"Yes, the way I see it, if you're gonna build a time machine into a car, why not do it with some style?" <em>Back To The Future 1985</em>
 </p>
 
 Have questions or just want to get in contact? [ask me on Twitter](https://twitter.com/wonea).
