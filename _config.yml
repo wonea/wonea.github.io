@@ -6,7 +6,7 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Gareth Brown Dev & Sport Blog
+title:            Gareth's Musings
 tagline:          'Dev & Sport Blog'
 description:      'A programmers dev and sporting blog'
 url:              https://wonea.github.io/
