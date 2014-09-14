@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Gareth's Musings
 tagline:          'Dev & Sport Blog'
-description:      'A programmer's dev and sporting blog'
+description:      'A programmer''s dev and sporting blog'
 url:              https://wonea.github.io/
 baseurl:          /
 
