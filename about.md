@@ -13,7 +13,7 @@ I'm a Cumbria based C# developer based in the lovely town of Ulverston - with a 
 
 Recent Personal Achievements:
 
-* <em>2009</em> Graduated from [Liverpool John Moores University(LJMU)](http://www.ljmu.ac.uk/) with a 1st Class Honours in Software Engineering
+* <em>2009</em> Software Engineering (1st Class) from [Liverpool John Moores University(LJMU)](http://www.ljmu.ac.uk/)
 * <em>2011</em> Cycled Lands End to John O Groats
 * <em>2013</em> Challenge Roth Ironman Triathlon
 * <em>2014</em> Abersoch (Bear Grylls) St Tudwall's Swim Race
